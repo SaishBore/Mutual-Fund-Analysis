@@ -91,10 +91,8 @@ Source: **[add where you got the dataset and its licence]**
 - Fund age seems to stop at 10 years in the data (62% of funds show exactly 10).
 - The weights and the 7-year best age are my own choices, and a different choice gives a different Top 30.
 
-## Video walkthrough
 
-**[add your YouTube link here]** (narration is text-to-speech)
 
 ## Author
 
-**[Your name]**: [LinkedIn link]
+**Saish B. Bore**: https://www.linkedin.com/in/saish-bore-59068926b
