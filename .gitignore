@@ -1,0 +1,7 @@
+# data and big files (remove these lines only if you are allowed to share the data)
+*.csv
+*.pbix
+# python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
